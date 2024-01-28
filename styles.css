@@ -1,0 +1,77 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    max-width: 600px; /* Adjust as needed for your design */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888888;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #008CBA;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+p {
+    color: #555;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.skills {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #888888;
+}
+
+.skill {
+    margin: 10px;
+    padding: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.skill:hover {
+    background-color: #ccc;
+}
+
+.insta {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+.instagram-link {
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
